@@ -10,8 +10,8 @@ function setup()
 
 function draw()
 {
-background(255,255,255);
+	background(255,255,255);
 
-ellipse(x,y,20,20);
+	ellipse(x,50,20,20);
 x = x + 1;
 }
